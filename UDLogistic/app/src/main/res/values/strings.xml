@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UDLogistic</string>
+    <string name="sothutu">Số thứ tự</string>
+    <string name="khachhang">Khách hàng</string>
+    <string name="xemchitiet">Xem chi tiết</string>
+    <string name="soxe">Số xe</string>
+    <string name="sobill">Số bill</string>
+    <string name="sotokhai">Số tờ khai</string>
+    <string name="ngaydigiao">Ngày đi giao</string>
+    <string name="socontainer">Số Container</string>
+    <string name="noilaycong">Nơi lấy công</string>
+    <string name="noidonghang">Nơi đóng hàng</string>
+    <string name="dongia">Đơn giá</string>
+    <string name="nhienlieu">Nhiên liệu</string>
+    <string name="phicauduong">Phí cầu đường</string>
+    <string name="phinangcong">Phí nâng công</string>
+    <string name="neoxe">Neo xe</string>
+    <string name="luongtheochuyen">Lương theo chuyến</string>
+    <string name="tamung">Tạm ứng</string>
+    <string name="tenkhachhang">Tên khách hàng</string>
+    <string name="diachi">Địa chỉ</string>
+    <string name="sdt">SĐT</string>
+    <string name="sodienthoai">Số điện thoại</string>
+    <string name="s_i_n_tho_i">Số điện thoại:</string>
+    <string name="makhachhang">Mã khách hàng</string>
+    <string name="tennhanvien">Tên nhân viên</string>
+    <string name="bo">Bộ phận</string>
+    <string name="chucvu">Chức vụ</string>
+</resources>

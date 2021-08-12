@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_item_doixevantai"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:stretchColumns="1,2,3">
+
+    <TableRow>
+
+        <TextView
+            android:id="@+id/tvSoThuTu"
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvSoXe"
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvKhachHang"
+            android:layout_column="1"
+            android:gravity="center"
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+    </TableRow>
+</TableLayout>

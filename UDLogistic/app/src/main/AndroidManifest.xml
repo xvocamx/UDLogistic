@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.udlogistic">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UDLogistic">
+        <activity android:name=".SuaNhanVien"></activity>
+        <activity android:name=".XemChiTiet_NhanVien" />
+        <activity android:name=".ThemNhanVien" />
+        <activity android:name=".QuanLyKhachHang" />
+        <activity android:name=".QuanLyNhanVien" />
+        <activity android:name=".SuaKhachKhang" />
+        <activity android:name=".Home">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".XemChiTiet_KhachHang" />
+        <activity android:name=".ThemKhachHang" />
+        <activity android:name=".SuaDoiXeVanTai" />
+        <activity android:name=".XemChiTiet_DoiXeVanTai" />
+        <activity android:name=".ThemDoiXeVanTai" />
+        <activity android:name=".QuanLyDoiXeVanTai" />
+    </application>
+
+</manifest>
